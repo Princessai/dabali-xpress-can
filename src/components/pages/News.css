@@ -1,0 +1,45 @@
+.news {
+    font-family: Rubik, sans-serif;
+    background-color: #ED7D47;
+    padding: 2%;
+}
+.news h1 {
+    font-family: Dancing, sans-serif;
+    font-size: 70px;
+    font-weight: bold;
+}
+.news-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 3% 0;
+}
+
+.news-container .card-title {
+    font-weight: bold;
+    font-family: Dancing, sans-serif;
+    font-size: 25px;
+    color: #054534;
+    margin-bottom: 10%;
+
+}
+.news-container .card {
+    margin: 10px;
+}
+
+
+.news-container .btn {
+    margin: 5px;
+    padding: 7px 25px;
+    border-radius: 20px;
+    border: none;
+    background-color: #054534;
+    color: #fff;
+    font-family: Rubik, sans-serif;
+
+}
+
+.news-container .btn:hover {
+    background-color: #7C9E95;
+    color: #fff;
+}

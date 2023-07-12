@@ -1,0 +1,11 @@
+.scrollButton {
+    float: right;
+    margin-top: -25px;
+    margin-right: 20px;
+    padding: 10px;
+    border-radius: 15px;
+    border: none;
+    font-family: Rubik, sans-serif;
+    background-color: #FE7702;
+    color: #fff;
+}

@@ -1,0 +1,67 @@
+@font-face {
+    font-family: Dancing;
+    src: url(../fonts/dancing-script/DancingScript-Regular.otf);
+}
+  
+
+.home {
+    background-image: linear-gradient(rgba(25, 117, 48, 0.6), rgba(25, 117, 48, 0.6)), url(../img/supporteur-can.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 617px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.logos-child {
+    width: 150px;
+}
+.logos-child-x {
+    width: 50px;
+}
+.akwaba {
+    color: #fff;
+    font-size: 50px;
+}
+
+.home p {
+    color: #fff;
+}
+
+.home .text .promesse {
+    font-family: Dancing, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+}
+.home h1 {
+    margin: 0;
+}
+.boutons {
+    display: flex;
+    flex-direction: column;
+    width: 15%;
+}
+
+.boutons button {
+    margin: 5px;
+    padding: 5px;
+    border-radius: 20px;
+    border: none;
+    background-color: #FE7702;
+    color: #fff;
+    font-family: Rubik, sans-serif;
+    font-size: 20px;
+}
+.boutons button:hover {
+    background-color: #f0a869;
+}
+
+.home .RS {
+    margin-bottom: 30px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    width: 10%;
+}

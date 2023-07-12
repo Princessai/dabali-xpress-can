@@ -1,0 +1,68 @@
+@font-face {
+    font-family: Rubik;
+    font-style: normal;
+    src: url(../../fonts/rubik/Rubik-Regular.ttf);
+}
+
+.restau {
+    background: linear-gradient(120deg,
+            white 10%,
+            rgba(255, 166, 0, 0.500) 10% 20%,
+            white 20% 40%,
+            rgba(0, 128, 0, 0.500) 40% 50%,
+            white 50%); /*faire un drapeu dans le fond de la section*/
+
+    display: flex;
+    padding: 10% 0;
+}
+
+.restau .text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.restau .text p {
+    line-height: 1.5;
+    padding: 20px;
+    margin: 5px;
+    text-align: justify;
+
+}
+
+.restau .text button{
+    padding: 10px;
+    border-radius: 15px;
+    border: none;
+    font-family: Rubik, sans-serif;
+    background-color: #FE7702;
+    color: #fff;
+}
+.restau .text button:hover {
+    background-color: #e99c59;
+}
+
+.restau .text h1 {
+    font-family: Dancing, sans-serif;
+    font-size: 70px;
+    margin: 0;
+    line-height: .8;
+}
+
+.restau .text h1 span {
+    font-family: Rubik, sans-serif;
+}
+
+.restau .images {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.restau .images img {
+    width: 40%;
+    height: 40%;
+    margin: 20px;
+}

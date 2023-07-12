@@ -1,0 +1,50 @@
+.menu {
+    display: flex;
+    margin-bottom: 3%;
+}
+
+.menu .description {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    background-color: #054534;
+}
+.menu .description button{
+    padding: 10px;
+    border-radius: 15px;
+    border: none;
+    font-family: Rubik, sans-serif;
+    background-color: #FE7702;
+    color: #fff;
+}
+.menu .description button:hover {
+    background-color: #e99c59;
+}
+.menu .description p {
+    padding: 25px;
+    text-align: justify;
+}
+
+.menu .description h1 {
+    font-family: Dancing, sans-serif;
+    font-size: 70px;
+    margin: 0;
+    line-height: .8;
+}
+
+.menu .description h1 span {
+    font-family: Rubik, sans-serif;
+
+}
+
+.menu .carousel {
+    width: 630px;
+    height: 600px;
+}
+
+.menu .carousel img{
+    width: 630px;
+    height: 600px;
+}

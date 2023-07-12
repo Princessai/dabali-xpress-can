@@ -1,0 +1,49 @@
+.special hr {
+    border-top: 5px solid #ED7D47;
+    border-radius: 15px;
+    text-align: center;
+    width: 60%;
+
+}
+
+.offre-container {
+    margin-bottom: 4%;
+}
+.offre-container .offre-content {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 5%;
+    margin-bottom: 2%;
+}
+
+.offre-container .offre-item {
+    width: 500px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #054534;
+    border-radius: 23px;
+
+}
+
+.offre-container button {
+    padding: 10px;
+    border-radius: 15px;
+    border: none;
+    font-family: Rubik, sans-serif;
+    background-color: #FE7702;
+    color: #fff;
+}
+
+.offre-container button:hover {
+    background-color: #e99c59;
+
+}
+
+.offre-container .offre-item img {
+    width: 450px;
+    height: 250px;
+    border-radius: 23px;
+
+}

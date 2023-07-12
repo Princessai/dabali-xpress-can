@@ -1,0 +1,78 @@
+.footer-container {
+    background-color: #1E1818;
+    color: #fff;
+    padding-bottom: 5px;
+    text-align: justify;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 30px;
+}
+
+.footer-content hr {
+    transform: rotate(90deg);
+    border-top: 2px solid #F9B622;
+    border-radius: 10px;
+    text-align: center;
+    width: 15%;
+}
+
+.footer-content li {
+    list-style-type: none;
+}
+
+.footer-container .newsLetter {
+    display: flex;
+    text-align: left;
+    flex-direction: column;
+    width: min-content;
+}
+
+
+.footer-container .newsLetter button {
+    padding: 5px;
+    margin-top: 10px;
+    width: fit-content;
+    border-radius: 15px;
+    border: none;
+    font-family: Rubik, sans-serif;
+    background-color: #F9B622;
+    color: #fff;
+
+}
+
+.footer-container .newsLetter button:hover {
+    background-color: #ebb94e;
+}
+
+.footer-container p {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer-container .contacts a {
+    color: #F9B622;
+    display: block;
+    margin-left: 10px;
+}
+
+.footer-container .contacts {
+    text-align: right;
+}
+.footer-container .contacts .icon{
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-container .emplacement {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer-container .emplacement div {
+    margin-left: 10px;
+}
