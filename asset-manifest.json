@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/dabali-xpress-can/static/css/main.b41d62f2.css",
+    "main.js": "/dabali-xpress-can/static/js/main.db3a7de3.js",
+    "static/js/787.e13ed185.chunk.js": "/dabali-xpress-can/static/js/787.e13ed185.chunk.js",
+    "static/media/offres-spécial-1.png": "/dabali-xpress-can/static/media/offres-spécial-1.fa6fd99849f0e4d622d1.png",
+    "static/media/offres-spécial-poisson.png": "/dabali-xpress-can/static/media/offres-spécial-poisson.33d8efe22dc677967265.png",
+    "static/media/prix.jpg": "/dabali-xpress-can/static/media/prix.ad3d819234bf8061d314.jpg",
+    "static/media/plat-1.jpg": "/dabali-xpress-can/static/media/plat-1.f277a36f06304971f829.jpg",
+    "static/media/plat-4.jpg": "/dabali-xpress-can/static/media/plat-4.f197a95bf68d07ff7dfd.jpg",
+    "static/media/interieur-1.jpg": "/dabali-xpress-can/static/media/interieur-1.2fefa11f288aa73a4e50.jpg",
+    "static/media/prix-2.jpg": "/dabali-xpress-can/static/media/prix-2.8e6052b87f6524e8ae67.jpg",
+    "static/media/boisson.jpg": "/dabali-xpress-can/static/media/boisson.08556e50874b082ca935.jpg",
+    "static/media/Rubik-Regular.ttf": "/dabali-xpress-can/static/media/Rubik-Regular.0f56ab0b295fd9fca620.ttf",
+    "static/media/interieur-2.jpg": "/dabali-xpress-can/static/media/interieur-2.e4be5b684f45eff0558c.jpg",
+    "static/media/menu-face.png": "/dabali-xpress-can/static/media/menu-face.0f25aff29c3c5bc30427.png",
+    "static/media/signature-franchise.jpeg": "/dabali-xpress-can/static/media/signature-franchise.31b3674acdfed72ce355.jpeg",
+    "static/media/boisson-3.jpeg": "/dabali-xpress-can/static/media/boisson-3.0436f571634942a4e180.jpeg",
+    "static/media/plat-3.jpg": "/dabali-xpress-can/static/media/plat-3.7adfb3c763d2bf61f41e.jpg",
+    "static/media/boisson-1.jpg": "/dabali-xpress-can/static/media/boisson-1.8290c1ff70a2cbb5612f.jpg",
+    "static/media/stade-laurent-pokou.jpg": "/dabali-xpress-can/static/media/stade-laurent-pokou.21962f1db9fba779d5c1.jpg",
+    "static/media/devanture-1.jpg": "/dabali-xpress-can/static/media/devanture-1.6b39debeb86521c25184.jpg",
+    "static/media/supporter-ivoiriens.jpg": "/dabali-xpress-can/static/media/supporter-ivoiriens.54ce7b8138d25cd94519.jpg",
+    "static/media/mohamed-salah-2.jpg": "/dabali-xpress-can/static/media/mohamed-salah-2.ae4996bddacda31ca269.jpg",
+    "static/media/interieur.jpg": "/dabali-xpress-can/static/media/interieur.b289668e6f054bec7fe5.jpg",
+    "static/media/coupe-CAN-2.jpeg": "/dabali-xpress-can/static/media/coupe-CAN-2.96ab6e902ea7229e28fa.jpeg",
+    "static/media/DancingScript-Regular.otf": "/dabali-xpress-can/static/media/DancingScript-Regular.9969d7d39a9aa2bb7f69.otf",
+    "static/media/supporteur-can.jpg": "/dabali-xpress-can/static/media/supporteur-can.6c65d9021bf296a26644.jpg",
+    "static/media/MOTIF.png": "/dabali-xpress-can/static/media/MOTIF.c62632d175d39294906a.png",
+    "static/media/Plan-de-travail-1-copie.png": "/dabali-xpress-can/static/media/Plan-de-travail-1-copie.e87be9873b4ac4c39bff.png",
+    "static/media/Plan-de-travail-1-copie-2.png": "/dabali-xpress-can/static/media/Plan-de-travail-1-copie-2.6cd263bfe9ec57913da8.png",
+    "static/media/logo-png1.png": "/dabali-xpress-can/static/media/logo-png1.6b393e4a26f2bb394ef7.png",
+    "index.html": "/dabali-xpress-can/index.html",
+    "main.b41d62f2.css.map": "/dabali-xpress-can/static/css/main.b41d62f2.css.map",
+    "main.db3a7de3.js.map": "/dabali-xpress-can/static/js/main.db3a7de3.js.map",
+    "787.e13ed185.chunk.js.map": "/dabali-xpress-can/static/js/787.e13ed185.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b41d62f2.css",
+    "static/js/main.db3a7de3.js"
+  ]
+}
