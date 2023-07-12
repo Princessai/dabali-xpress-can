@@ -13,7 +13,6 @@ function App() {
       <Header />
       <ScrollButton />
       <Footer />
-      <LaCarte/>
       <Routes>
         <Route path='/' exact component={Home} />
         <Route path='/menu' component={LaCarte} />
