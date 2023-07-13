@@ -45,7 +45,7 @@ function News() {
                                 <div className="card-body">
                                     <h5 className="card-title">{illustration.title}</h5>
                                     <p className="card-text">{illustration.body}</p>
-                                    <Link to={illustration.link} className="btn">Lire plus </Link>
+                                    <Link to={illustration.link} target='_blank' className="btn">Lire plus </Link>
                                 </div>
                             </div>
 
