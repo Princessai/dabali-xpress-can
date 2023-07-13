@@ -110,6 +110,12 @@ img {
   .footer-content {
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
+  }
+
+  .footer-content hr {
+    transform: rotate(0deg) !important;
+    margin: 30px;
   }
 
   .menu .carousel {
@@ -121,15 +127,15 @@ img {
 }
 
 .offre-container .offre-item {
-  width: 400px;
-  height: 200px;
+  width: 400px !important;
+  height: 200px !important;
   margin-bottom: 10px;
   background-color: #fff;
 }
 
 .offre-container .offre-item img{
-  width: 400px;
-  height: 200px;
+  width: 350px !important;
+  height: 170px !important;
 }
 
   .reserver {
