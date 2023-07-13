@@ -1,8 +1,7 @@
 .reserver {
-    height: 100vh;
+    height: 90vh;
     width: 100%;
     display: flex;
-    background-color: none;
     justify-content: space-around;
 }
 

@@ -1,0 +1,22 @@
+.carte-container h1 {
+    font-family: Dancing, sans-serif;
+    font-size: 70px;
+    margin: 15px;
+    font-weight: bold;
+}
+.carte-container .offre-content img {
+    width: 70%;
+    height: 100%;
+    margin: 10px;
+}
+.carte-container .offre-content p {
+    width: 70%;
+    text-align: justify;
+    margin-left: 100px;
+}
+.carte-container .offre-content {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+}

@@ -3,7 +3,7 @@ import "./Menu.css";
 import imageActive from "../../img/plat-3.jpg"
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.bundle.js";
-import { Link } from 'react-router-dom';
+import { NavLink } from 'react-router-dom';
 
 
 
@@ -38,7 +38,7 @@ function Menu() {
 
     return (
         <div className='menu'>
-            <section className='carousel'>
+            <section className='carousel '>
                 <div id="carouselExampleIndicators" className="carousel slide carousel-fade" data-ride="carousel">
                     <ol className="carousel-indicators">
                         <li data-target="#carouselExampleIndicators" data-slide-to="0" className="active"></li>
@@ -81,11 +81,11 @@ function Menu() {
                     C’est la rencontre au même endroit, de différentes saveurs locales (Foufou, sauce graine, soupe de machoirons, garba...) qui vous feront voyager aux quatre coins du pays. Pour vous rafraichir vous aurez le choix entre une multitude de jus frais 100% naturel (Bissap, gingembre, passion…) qui raviveront vos papilles !
                 </p>
 
-                <Link to='/menu'>
+                <NavLink to='/menu'>
                     <button>
                         Le menu
                     </button>
-                </Link>
+                </NavLink>
 
             </section>
         </div>

@@ -21,7 +21,7 @@ function Home() {
         </div>
         <h1 className="akwaba">AKWABA SUR DABALI XPRESS</h1>
         <div className="text">
-          <p className="promesse">Savourez la CAN avec Dabali Xpress !</p>
+          <p className="promesse">Savourez la CAN avec nous !</p>
           <p>CAN 2023: Janvier 2024 - Février 2024</p>
         </div>
         <div className="boutons">

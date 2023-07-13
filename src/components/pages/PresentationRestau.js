@@ -8,7 +8,7 @@ import Restau3 from '../../img/interieur-2.jpg';
 
 function PresentationRestau() {
     return (
-        <div className='restau'>
+        <div className='restau'> 
             <section className='text'>
                 <h1>Le Fast-food <br/> <span>Ivoirien</span> </h1>
                 <p>

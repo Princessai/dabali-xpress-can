@@ -79,3 +79,66 @@ img {
   background: rgba(255, 255, 255, 0.25);
 
 }
+
+@media (max-width: 769px) {
+
+  .restau {
+    display: flex;
+    flex-direction: column-reverse;
+
+  }
+
+  .slide-container {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .menu {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  .menu .description {
+    padding: 20px;
+}
+
+
+  .offre-container .offre-content {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .footer-content {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .menu .carousel {
+    display: none;
+  }
+
+.menu .carousel img{
+    height: 200px;
+}
+
+.offre-container .offre-item {
+  width: 400px;
+  height: 200px;
+  margin-bottom: 10px;
+  background-color: #fff;
+}
+
+.offre-container .offre-item img{
+  width: 400px;
+  height: 200px;
+}
+
+  .reserver {
+    height: 90vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+}

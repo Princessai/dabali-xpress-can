@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import "./Specials.css";
 import Offre1 from '../../img/offres-spécial-1.png';
 import Offre2 from '../../img/offres-spécial-poisson.png';
@@ -18,7 +19,9 @@ function Specials() {
                     </div>
                 </div>
 
-                <button>VOIR TOUTES LES OFFRES ET LE MENU</button>
+                <Link to="/menu">
+                    <button>VOIR TOUTES LES OFFRES ET LE MENU</button>
+                </Link>
 
             </section>
 
