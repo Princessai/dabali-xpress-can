@@ -16,7 +16,7 @@ function App() {
         <ScrollButton />
         <Footer />
         <Routes>
-          <Route path='/dabali-xpress-can' element={<Home />} />
+          <Route path='/' element={<Home />} />
           <Route path='/menu' element={<LaCarte />} />
           <Route path='/reserver' element={<Reserver />} />
         </Routes>
