@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/dabali-xpress-can/static/css/main.b41d62f2.css",
-    "main.js": "/dabali-xpress-can/static/js/main.0e8856b9.js",
+    "main.css": "/dabali-xpress-can/static/css/main.e4ec2c2b.css",
+    "main.js": "/dabali-xpress-can/static/js/main.ed923df3.js",
     "static/js/787.e13ed185.chunk.js": "/dabali-xpress-can/static/js/787.e13ed185.chunk.js",
     "static/media/offres-spécial-1.png": "/dabali-xpress-can/static/media/offres-spécial-1.fa6fd99849f0e4d622d1.png",
     "static/media/offres-spécial-poisson.png": "/dabali-xpress-can/static/media/offres-spécial-poisson.33d8efe22dc677967265.png",
@@ -31,12 +31,12 @@
     "static/media/Plan-de-travail-1-copie-2.png": "/dabali-xpress-can/static/media/Plan-de-travail-1-copie-2.6cd263bfe9ec57913da8.png",
     "static/media/logo-png1.png": "/dabali-xpress-can/static/media/logo-png1.6b393e4a26f2bb394ef7.png",
     "index.html": "/dabali-xpress-can/index.html",
-    "main.b41d62f2.css.map": "/dabali-xpress-can/static/css/main.b41d62f2.css.map",
-    "main.0e8856b9.js.map": "/dabali-xpress-can/static/js/main.0e8856b9.js.map",
+    "main.e4ec2c2b.css.map": "/dabali-xpress-can/static/css/main.e4ec2c2b.css.map",
+    "main.ed923df3.js.map": "/dabali-xpress-can/static/js/main.ed923df3.js.map",
     "787.e13ed185.chunk.js.map": "/dabali-xpress-can/static/js/787.e13ed185.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b41d62f2.css",
-    "static/js/main.0e8856b9.js"
+    "static/css/main.e4ec2c2b.css",
+    "static/js/main.ed923df3.js"
   ]
 }
